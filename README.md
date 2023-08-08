@@ -1,5 +1,5 @@
 # SageMaker-Deployment
-Compilation of examples of SageMaker inference options and other features.
+Compilation of examples of SageMaker inference options and other features (Forked).
 
 ## Inference Options
 - [Real-Time Inference](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/RealTime)
